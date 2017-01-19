@@ -1,0 +1,137 @@
+.font-sm {
+  font-size: 20px; }
+
+.font-md {
+  font-size: 25px; }
+
+.font-lg {
+  font-size: 31.25px; }
+
+.font-xl {
+  font-size: 39.0625px; }
+
+.top-none {
+  margin-top: 0px !important;
+  padding-top: 0px !important; }
+
+.top-xs {
+  margin-top: 15px !important; }
+
+.top-sm {
+  margin-top: 30px !important; }
+
+.top-md {
+  margin-top: 60px !important; }
+
+.top-lg {
+  margin-top: 120px !important; }
+
+.right-none {
+  margin-right: 0px !important;
+  padding-right: 0px !important; }
+
+.right-xs {
+  margin-right: 15px !important; }
+
+.right-sm {
+  margin-right: 30px !important; }
+
+.right-md {
+  margin-right: 60px !important; }
+
+.right-lg {
+  margin-right: 120px !important; }
+
+.bottom-none {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important; }
+
+.bottom-xs {
+  margin-bottom: 15px !important; }
+
+.bottom-sm {
+  margin-bottom: 30px !important; }
+
+.bottom-md {
+  margin-bottom: 60px !important; }
+
+.bottom-lg {
+  margin-bottom: 120px !important; }
+
+.left-none {
+  margin-left: 0px !important;
+  padding-left: 0px !important; }
+
+.left-xs {
+  margin-left: 15px !important; }
+
+.left-sm {
+  margin-left: 30px !important; }
+
+.left-md {
+  margin-left: 60px !important; }
+
+.left-lg {
+  margin-left: 120px !important; }
+
+body {
+  font-family: "futura-pt", "Futura", "Proxima Nova", sans-serif;
+  background-image: url("../inauguration-drinking-game.jpg");
+  text-transform: uppercase;
+  background-size: cover;
+  letter-spacing: 0.15em;
+  text-align: center;
+  padding: 3.5% 3%;
+  font-weight: 700;
+  color: white; }
+
+.drumpf-wrapper-top {
+  border: 6px solid white;
+  padding: 10%; }
+  @media screen and (min-width: 768px) {
+    .drumpf-wrapper-top {
+      border: 10px solid white; } }
+
+.drumpf-logo {
+  margin-bottom: 12%;
+  display: block;
+  width: 100%; }
+
+.drumpf-wrapper-bottom {
+  border-bottom: 6px solid white;
+  border-right: 6px solid white;
+  border-left: 6px solid white;
+  padding: 8%; }
+  @media screen and (min-width: 768px) {
+    .drumpf-wrapper-bottom {
+      border-bottom: 10px solid white;
+      border-right: 10px solid white;
+      border-left: 10px solid white; } }
+
+p {
+  line-height: 1.25em;
+  color: #cadbf2;
+  padding: 0 4%; }
+  @media screen and (min-width: 768px) {
+    p {
+      font-size: 2vw; } }
+
+h2 {
+  font-weight: 800;
+  margin-top: 0; }
+
+ul {
+  text-align: left;
+  padding: 0;
+  margin: 0; }
+
+li {
+  list-style-type: none;
+  line-height: 1.15em;
+  font-weight: 300;
+  margin-top: 40px;
+  font-size: 20px; }
+  @media screen and (min-width: 768px) {
+    li {
+      margin-top: 5vw;
+      font-size: 2vw; } }
